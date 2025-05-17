@@ -1,7 +1,9 @@
 Resources for Workshops
-
+================
+ 
 This is a repository to host all resources for workshops in a
 chronological order. See below for the project tree structure.
+Something you write down if you want to do something!!
 
 ``` r
 fs::dir_tree(recurse = 2)
