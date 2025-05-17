@@ -5,6 +5,11 @@ This is a repository to host all resources for workshops in a
 chronological order. See below for the project tree structure.
 Something you write down if you want to do something!!
 
+##What is Git?
+Developers who work on acommon codebase will clone the repository and then perform push and pull 
+operations to synchronize their changes. In contrast , a fork creates a new codebase and 
+updates to the fork are not  synchronized with the original repo.
+
 ``` r
 fs::dir_tree(recurse = 2)
 ```
