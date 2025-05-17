@@ -19,6 +19,10 @@ This is a repository to host all resources for workshops in a
 chronological order. See below for the project tree structure.
 Something you write down if you want to do something!!
 
+## What is Pull request & Merge 
+Git's way of putting a forked history back together again 
+and Review code before merging into the main branch.
+
 
 ok nar ka babi;
 ``` r
