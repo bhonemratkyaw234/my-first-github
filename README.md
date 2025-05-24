@@ -10,6 +10,10 @@ Developers who work on acommon codebase will clone the repository and then perfo
 operations to synchronize their changes. In contrast , a fork creates a new codebase and 
 updates to the fork are not  synchronized with the original repo.
 
+/*Gooogle is the best image of web...
+*/
+--State of United is the Ameriacan people..
+
 ``` r
 fs::dir_tree(recurse = 2)
 ```
